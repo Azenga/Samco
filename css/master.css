@@ -1,0 +1,15 @@
+.object-cover{
+	object-fit: cover;
+}
+
+.object-bottom{
+	object-position: bottom;
+}
+
+.h-screen{
+	height: 100vh !important;
+}
+
+.min-h-1\/2-screen{
+	min-height: 50vh;
+}
